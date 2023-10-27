@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+.main-conatiner{
+    width: 500px;
+    height: 400px;
+    border: 2px solid;
+}
+
+img{
+    height: 400px;
+}
